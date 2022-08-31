@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/test (1)/test" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/test (1)/test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-examples" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-excelant" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-integration" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-ooxml" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-ooxml-full" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-ooxml-lite" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-ooxml-lite-agent" />
+            <option value="$PROJECT_DIR$/../../poi-src-5.2.2-20220312/poi-scratchpad" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
